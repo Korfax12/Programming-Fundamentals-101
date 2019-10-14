@@ -1,0 +1,29 @@
+### Roadmap
+
+- [X] Structure of (almost) any web app
+    - [X] Frontend and Backend
+    - [X] Websockets and Web Workers
+- [X] Categorization of programming languages
+    - [X] Frontend VS Backend (e.g. JavaScript VS PHP)
+    - [X] Compiled VS not compiled (e.g. Java VS PHP)
+    - [X] Functional VS Object-Oriented (e.g. JavaScript VS Java)
+- [X] Tools
+    - [X] Built tools - Gulp, Webpack
+    - [X] IDEs - PHPStorm, NetBeans, VS Code
+- [X] Popular frameworks
+    - [X] Frontend - Angular, React, VueJS
+    - [X] Backend - Laravel, Yii
+- [ ] Creating a sample image gallery using Angular
+    - [ ] Angular CLI basics
+    - [ ] Components? Create your first component
+    - [ ] Routes? Define a route and attach a component to it
+    - [ ] Angular Directives - ngIf, ngFor
+- [ ] Creating a todo app with CRUD operations
+- [ ] Connecting a frontend app to a backend app
+    - [ ] Retrieving and visualizing data
+    - [ ] Sending data
+    - [ ] Error responses and reacting to them
+- [ ] Structure of a backend app
+    - [ ] Model-view-controller (MVC) pattern
+    - [ ] Databases. Types and differences
+- [ ] Creating a sample Laravel app
