@@ -17,15 +17,23 @@
 - [ ] Creating an Angular based image gallery
     - [ ] Angular CLI basics: command to generate components
     - [ ] Components? Create your first component
-    - [ ] Routes? Define a route and attach a component to it
     - [ ] Angular Directives - ngIf, ngFor
 - [ ] Creating an Angular ToDo app with CRUD operations (create, read, update, delete)
 - [ ] Connecting a frontend app to a backend app
     - [ ] Retrieving and visualizing data
     - [ ] Sending data to backend (submitting a form)
     - [ ] HTTP responses and how to handle them
-- [ ] Structure of a backend app
+- [ ] Structure of a typical backend app
     - [ ] Model-view-controller (MVC) pattern
-    - [ ] Databases. Types and differences
+    - [ ] Database engines. Types and differences
 - [ ] Creating a sample Laravel app as a backend (REST APIs)
 - [ ] Version control for source code (Git)
+- [ ] Typical authentication protocols for the backend (oAuth2)
+- [ ] Angular deep dive
+    - [ ] Angular routing. Layout files
+    - [ ] Angular services and pipes
+    - [ ] Angular modules. Code reusability
+- [ ] Laravel deep dive
+    - [ ] Laravel Artisan CLI fundamentals
+    - [ ] Laravel DB migrations - creating the first one and applying migrations
+    - [ ] Laravel authentication fundamentals (Laravel Passport)
