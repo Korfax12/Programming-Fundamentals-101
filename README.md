@@ -13,17 +13,19 @@
 - [X] Popular frameworks
     - [X] Frontend - Angular, React, VueJS
     - [X] Backend - Laravel, Yii
-- [ ] Creating a sample image gallery using Angular
-    - [ ] Angular CLI basics
+- [ ] Creating an HTML image gallery
+- [ ] Creating an Angular based image gallery
+    - [ ] Angular CLI basics: command to generate components
     - [ ] Components? Create your first component
     - [ ] Routes? Define a route and attach a component to it
     - [ ] Angular Directives - ngIf, ngFor
-- [ ] Creating a todo app with CRUD operations
+- [ ] Creating an Angular ToDo app with CRUD operations (create, read, update, delete)
 - [ ] Connecting a frontend app to a backend app
     - [ ] Retrieving and visualizing data
-    - [ ] Sending data
-    - [ ] Error responses and reacting to them
+    - [ ] Sending data to backend (submitting a form)
+    - [ ] HTTP responses and how to handle them
 - [ ] Structure of a backend app
     - [ ] Model-view-controller (MVC) pattern
     - [ ] Databases. Types and differences
-- [ ] Creating a sample Laravel app
+- [ ] Creating a sample Laravel app as a backend (REST APIs)
+- [ ] Version control for source code (Git)
