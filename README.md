@@ -13,12 +13,12 @@
 - [X] Popular frameworks
     - [X] Frontend - Angular, React, VueJS
     - [X] Backend - Laravel, Yii
-- [ ] Creating an HTML image gallery
-- [ ] Creating an Angular based image gallery
-    - [ ] Angular CLI basics: command to generate components
-    - [ ] Components? Create your first component
-    - [ ] Angular Directives - ngIf, ngFor
-- [ ] Creating an Angular ToDo app with CRUD operations (create, read, update, delete)
+- [X] Creating an HTML image gallery
+- [X] Creating an Angular based image gallery
+    - [X] Angular CLI basics: command to generate components
+    - [X] Components? Create your first component
+    - [X] Angular Directives - ngIf, ngFor
+- [X] Creating an Angular ToDo app with CRUD operations (create, read, update, delete)
 - [ ] Connecting a frontend app to a backend app
     - [ ] Retrieving and visualizing data
     - [ ] Sending data to backend (submitting a form)
