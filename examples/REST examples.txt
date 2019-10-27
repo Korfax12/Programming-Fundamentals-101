@@ -1,0 +1,8 @@
+GET http://facebook.com/api/user/123/posts/99/likes
+
+GET
+POST
+PUT
+DELETE
+OPTIONS
+....

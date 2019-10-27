@@ -1,0 +1,6 @@
+<input #currentTodoItem placeholder="New todo item here" type="text"/>
+<input (click)="addTodo()" type="submit"/>
+
+<div *ngFor="let item of todos" [class.isDone]="item.isDone">
+    <input (click)="markDone(item)" [checked]="item.isDone" type="checkbox"/> {{item.label}}
+</div>
