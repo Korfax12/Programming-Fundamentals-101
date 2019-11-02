@@ -37,3 +37,21 @@
     - [ ] Laravel Artisan CLI fundamentals
     - [ ] Laravel DB migrations - creating the first one and applying migrations
     - [ ] Laravel authentication fundamentals (Laravel Passport)
+- [ ] Frontend development - advanced topics
+    - [ ] Type hinting, Interfaces, Build procedures
+    - [ ] Server side rendering, SEO
+- [ ] Backend development - advanced topics
+    - [ ] Hosting apps on the cloud (AWS, Google Cloud, DigitalOcean)
+    - [ ] Optimization, caching, security practices (SSL, encryption, obfuscation)
+- [ ] Databases - advanced topics
+    - [ ] Different ways to store data (SQL, noSQL)
+    - [ ] Normilization VS denormalization of data
+    - [ ] Queries in SQL environment
+    - [ ] DB optimization
+- [ ] Working on a software development project
+    - [ ] Agile methodologies: SCRUM, Kanban, Waterfall, Lean, XP
+    - [ ] Roles in a SCRUM team
+    - [ ] Tools for effective task management: Jira, Trello
+- [ ] NodeJS introduction
+    - [ ] Creating a simple NodeJS app
+    - [ ] Creating a simple Express app
