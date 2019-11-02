@@ -1,0 +1,17 @@
+<!-- <div *ngFor="let item of todos">
+    {{item.title}}
+</div> -->
+
+<form>
+    <div>
+        <input type="text" name="title" placeholder="Post Title" [(ngModel)]="title"/>
+    </div>
+
+    <div>
+        <textarea name="body" placeholder="Post Body" [(ngModel)]="body"></textarea>
+    </div>
+
+    <div>
+        <input type="submit" value="Изпрати блог пост" (click)="onSubmit()"/>
+    </div>
+</form>
