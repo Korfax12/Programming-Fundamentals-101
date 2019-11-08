@@ -19,9 +19,9 @@
     - [X] Components? Create your first component
     - [X] Angular Directives - ngIf, ngFor
 - [X] Creating an Angular ToDo app with CRUD operations (create, read, update, delete)
-- [ ] Connecting a frontend app to a backend app
-    - [ ] Retrieving and visualizing data
-    - [ ] Sending data to backend (submitting a form)
+- [X] Connecting a frontend app to a backend app
+    - [X] Retrieving and visualizing data
+    - [X] Sending data to backend (submitting a form)
     - [ ] HTTP responses and how to handle them
 - [ ] Structure of a typical backend app
     - [ ] Model-view-controller (MVC) pattern
