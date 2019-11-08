@@ -23,8 +23,8 @@
     - [X] Retrieving and visualizing data
     - [X] Sending data to backend (submitting a form)
     - [ ] HTTP responses and how to handle them
-- [ ] Structure of a typical backend app
-    - [ ] Model-view-controller (MVC) pattern
+- [X] Structure of a typical backend app
+    - [X] Model-view-controller (MVC) pattern
     - [ ] Database engines. Types and differences
 - [ ] Creating a sample Laravel app as a backend (REST APIs)
 - [ ] Version control for source code (Git)
