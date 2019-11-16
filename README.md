@@ -25,14 +25,14 @@
     - [ ] HTTP responses and how to handle them
 - [X] Structure of a typical backend app
     - [X] Model-view-controller (MVC) pattern
-- [ ] Database engines. Types and differences
-- [ ] Creating a sample Laravel app as a backend (REST APIs)
-    - [ ] Installing PHP
-    - [ ] Installing Composer (dependency manager)
-    - [ ] Installing Laravel
+- [X] Database engines. Types and differences
+- [X] Creating a sample Laravel app as a backend (REST APIs)
+    - [X] Installing PHP
+    - [X] Installing Composer (dependency manager)
+    - [X] Installing Laravel
     - [ ] Installing a MySQL server and client
-    - [ ] Connecting Laravel to the database
-    - [ ] Creating the first CRUD API in Laravel
+    - [X] Connecting Laravel to the database
+    - [X] Creating the first CRUD API in Laravel
     - [ ] CRUD operations on Models
 - [ ] Version control for managing source code (Git)
 - [ ] Typical authentication protocols for the backend (oAuth2)
