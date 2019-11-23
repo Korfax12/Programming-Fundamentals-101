@@ -30,10 +30,11 @@
     - [X] Installing PHP
     - [X] Installing Composer (dependency manager)
     - [X] Installing Laravel
-    - [ ] Installing a MySQL server and client
+    - [X] Installing a MySQL server and client
     - [X] Connecting Laravel to the database
     - [X] Creating the first CRUD API in Laravel
     - [ ] CRUD operations on Models
+    - [ ] Creating a simple chat application backend
 - [ ] Version control for managing source code (Git)
 - [ ] Typical authentication protocols for the backend (oAuth2)
 - [ ] Angular deep dive
