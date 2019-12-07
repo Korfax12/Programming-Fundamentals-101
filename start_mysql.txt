@@ -1,1 +1,1 @@
-docker run -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 mysql:5.7
+docker run --rm -e MYSQL_DATABASE=chat -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 mysql:5.7
