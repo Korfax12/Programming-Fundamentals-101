@@ -33,9 +33,10 @@
     - [X] Installing a MySQL server and client
     - [X] Connecting Laravel to the database
     - [X] Creating the first CRUD API in Laravel
-    - [ ] CRUD operations on Models
-    - [ ] Creating a simple chat application backend
-- [ ] Version control for managing source code (Git)
+    - [X] CRUD operations on Models
+    - [X] Creating a simple chat application backend
+- [X] Version control for managing source code (Git)
+    - [ ] Practical use
 - [ ] Typical authentication protocols for the backend (oAuth2)
 - [ ] Angular deep dive
     - [ ] Angular routing. Layout files
